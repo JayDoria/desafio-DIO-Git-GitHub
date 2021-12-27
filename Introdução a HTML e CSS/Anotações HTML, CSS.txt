@@ -1,0 +1,5 @@
+*Elemento são a base da linguagem de estilização HTML, que significa Hyper Text Markup language;
+*O HTML 	é formado por tags de abertura e seus atributos, um conteúdo e uma tag de fechamento, como o main, o head e o body. 
+*Com o HTML 5, em 2014, o que antes era usados somente divs como atributos, a nova semântica diversificou os atributos com as section, header, artilce, aside, foooter e as "h";
+*CSS é uma linguagem de estilização para o HTML, que significa Cascate Style Sheets.
+*CSS é formada por seletores e declarações
