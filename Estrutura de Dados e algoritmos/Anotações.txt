@@ -1,0 +1,1 @@
+Existem 3 tipos de estruturas de dados, as dos tipo Árvore(tree), as dos tipo tabela Hash(a que achei mais interessantes, pois entra com hexadecima) e do tipo grafos.
